@@ -8,8 +8,10 @@ namespace Homework8
 {
     class Person
     {
-        // Create a class Person that will have 4 properties (FirstName, LastName, Age, Gender-that will be enumeration).
-        // The person class should have a virtual method GetInfo that will print the information of that person.
+        /* Create a class Person that will have 4 properties 
+        (FirstName, LastName, Age, Gender-that will be enumeration).
+        The person class should have a virtual method GetInfo that 
+        will print the information of that person. */
         public string FirstName;
         public string LastName;
         public int Age;
